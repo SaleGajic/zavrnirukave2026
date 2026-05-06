@@ -1,0 +1,1492 @@
+{
+  "modified_gmt": "2026-05-05T14:06:15",
+  "source": "https://zavrnirukave.rs/wp-json/wp/v2/pages?slug=prijavljene-lokacije",
+  "count": 165,
+  "locations": [
+    {
+      "r": "Beograd",
+      "lat": 44.799722,
+      "lon": 20.387361,
+      "name": "Blok 44",
+      "city": "Novi Beograd",
+      "leader": "Srećko Ćirić",
+      "team": "Za zeleniji i uredjeniji Blok 44"
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.788583,
+      "lon": 20.516806,
+      "name": "Stara Okretnica – Zvezdara",
+      "city": "Beograd",
+      "leader": "Borjana Tasić",
+      "team": "Borjana Tasić"
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.809583,
+      "lon": 20.425,
+      "name": "Blok 23",
+      "city": "Novi Beograd",
+      "leader": "Djurdja Djurkovic",
+      "team": "Djurdja Djurkovic"
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.776583,
+      "lon": 20.498194,
+      "name": "Medak",
+      "city": "Voždovac",
+      "leader": "Luka Jovanovic",
+      "team": "Luka Jovanovic"
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.806139,
+      "lon": 20.388167,
+      "name": "Blok 64 Jug",
+      "city": "Novi Beograd",
+      "leader": "Aljoša Marković",
+      "team": "Aljoša Marković"
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.801333,
+      "lon": 20.479444,
+      "name": "Crveni Park Hadzi Ruvimova",
+      "city": "Zvezdara",
+      "leader": "Jovan Milosevic",
+      "team": ""
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.812,
+      "lon": 20.371667,
+      "name": "Bežanijska kosa",
+      "city": "Novi Beograd",
+      "leader": "Bojana Ranđelović",
+      "team": ""
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.789361,
+      "lon": 20.525917,
+      "name": "Mirijevo – Park Udovica",
+      "city": "Zvezdara",
+      "leader": "Maja Čubranović",
+      "team": ""
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.825639,
+      "lon": 20.411972,
+      "name": "Fontana",
+      "city": "Novi Beograd",
+      "leader": "Ivana Živković",
+      "team": ""
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.818889,
+      "lon": 20.42125,
+      "name": "Blok 30",
+      "city": "Novi Beograd",
+      "leader": "Nemanja Stojković",
+      "team": ""
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.886611,
+      "lon": 20.454444,
+      "name": "Borča",
+      "city": "Beograd",
+      "leader": "Ana Mladenović",
+      "team": ""
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.819111,
+      "lon": 20.4785,
+      "name": "Beograd",
+      "city": "Beograd",
+      "leader": "Ivan Đorđević",
+      "team": ""
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.803361,
+      "lon": 20.375889,
+      "name": "Bloka 62 – Park Republike Argentine",
+      "city": "Novi Beograd",
+      "leader": "Strahinja MIlovic",
+      "team": ""
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.82625,
+      "lon": 20.464111,
+      "name": "Fontana u Mike Alasa",
+      "city": "Beograd",
+      "leader": "Branka Perović",
+      "team": ""
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.808083,
+      "lon": 20.386472,
+      "name": "Immo Centar",
+      "city": "Novi Beograd",
+      "leader": "Elena Vranic",
+      "team": ""
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.798778,
+      "lon": 20.481194,
+      "name": "Plato kod Milesevske",
+      "city": "Vracar",
+      "leader": "Tamara Matić",
+      "team": ""
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.802667,
+      "lon": 20.368861,
+      "name": "Par „Kec“ Blok 61",
+      "city": "Novi Beograd",
+      "leader": "Aleksa Vuković",
+      "team": ""
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.829472,
+      "lon": 20.462889,
+      "name": "Dunavski Kej – Beograd",
+      "city": "Beograd",
+      "leader": "Sonja Đokić",
+      "team": ""
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.810583,
+      "lon": 20.419417,
+      "name": "Blok 24",
+      "city": "Novi Beograd",
+      "leader": "Andrej Dimitrijevic",
+      "team": ""
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.788222,
+      "lon": 20.529472,
+      "name": "Stojcino Brdo – Plato kod broja 9",
+      "city": "Mirijevo",
+      "leader": "Marina Pajkić",
+      "team": ""
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.751852,
+      "lon": 20.480139,
+      "name": "Banjica 2 – Okretnica",
+      "city": "Banjica",
+      "leader": "Lena Gorshkova",
+      "team": ""
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.379389,
+      "lon": 20.249778,
+      "name": "Treca Mesna",
+      "city": "Lazarevac",
+      "leader": "Зоран Грујић",
+      "team": ""
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.814806,
+      "lon": 20.444056,
+      "name": "Park Usce",
+      "city": "Novi Beograd",
+      "leader": "Ivan Pezikov",
+      "team": ""
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.830167,
+      "lon": 20.414444,
+      "name": "Bloc 11c",
+      "city": "Novi Beograd",
+      "leader": "Marija Bežulj",
+      "team": ""
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.811333,
+      "lon": 20.368972,
+      "name": "Bezanija",
+      "city": "Novi Beograd",
+      "leader": "Tanja Spasenovski",
+      "team": ""
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.895167,
+      "lon": 20.293444,
+      "name": "Batajnica",
+      "city": "Batajnica",
+      "leader": "Zbor građana Batajnice",
+      "team": ""
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.803472,
+      "lon": 20.371472,
+      "name": "Pasarela – Blok 61",
+      "city": "Novi Beograd",
+      "leader": "Srdan Vlahovic",
+      "team": ""
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.795167,
+      "lon": 20.502556,
+      "name": "Sportski kompleks „Šljunkara“",
+      "city": "Zvezdara",
+      "leader": "Zbor gradjana MZ Zvezdara i MZ Slavujev potok",
+      "team": ""
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.783722,
+      "lon": 20.489417,
+      "name": "Igraliste za Decu",
+      "city": "Vozdovac",
+      "leader": "Nadia K",
+      "team": ""
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.813444,
+      "lon": 20.431722,
+      "name": "Bloka 21",
+      "city": "Novi Beograd",
+      "leader": "Luka Stanković",
+      "team": ""
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.784306,
+      "lon": 20.512417,
+      "name": "Park Istocna Kapija",
+      "city": "Konjarnik",
+      "leader": "Goran Šećerović",
+      "team": ""
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.728667,
+      "lon": 20.37625,
+      "name": "Zeleznik",
+      "city": "Zeleznik",
+      "leader": "Milica Lukić",
+      "team": ""
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.759972,
+      "lon": 20.415806,
+      "name": "Zarkovo",
+      "city": "Zarkovo",
+      "leader": "Olgica Ilic",
+      "team": "Zbor Zarkovo"
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.792639,
+      "lon": 20.494444,
+      "name": "Park Donji Krug",
+      "city": "Vracar",
+      "leader": "Jelena Nikić",
+      "team": ""
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.82075,
+      "lon": 20.373972,
+      "name": "Bezanija – Marka Celebonovica",
+      "city": "Novi Beograd",
+      "leader": "Ivana Bondžić",
+      "team": ""
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.810917,
+      "lon": 20.514444,
+      "name": "OŠ Stevan Đukić",
+      "city": "Karaburma",
+      "leader": "Aleksandra Zirojevic",
+      "team": ""
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.847389,
+      "lon": 20.382111,
+      "name": "Park „Milan Tepic“",
+      "city": "Zemun",
+      "leader": "Dragana Stanić",
+      "team": ""
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.669389,
+      "lon": 20.495444,
+      "name": "FK Minel Ripanj",
+      "city": "Ripanj",
+      "leader": "Goran Jeremić",
+      "team": "Moje Naselje Ripanj"
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.792111,
+      "lon": 20.493417,
+      "name": "Tome Maksimovica",
+      "city": "Vracar",
+      "leader": "Sofia Japrinceva",
+      "team": ""
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.750611,
+      "lon": 20.480528,
+      "name": "Paunov Breg",
+      "city": "Voždovac",
+      "leader": "Ivana Pavlov",
+      "team": ""
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.803667,
+      "lon": 20.466667,
+      "name": "Mitićeva rupa i Park Manjež",
+      "city": "Vračar",
+      "leader": "Bojana Zugic",
+      "team": ""
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.727139,
+      "lon": 20.423361,
+      "name": "Labudovo Brdo",
+      "city": "Rakovica",
+      "leader": "Višnja Blažin",
+      "team": ""
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.798028,
+      "lon": 20.400417,
+      "name": "Okretnica blok 70a",
+      "city": "Novi Beograd",
+      "leader": "Aleksandra Stanic",
+      "team": "Zajednicka akcija blok 70 i 70a"
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.819139,
+      "lon": 20.47625,
+      "name": "OŠ „Vlada Aksentijević“",
+      "city": "Palilula",
+      "leader": "Marija Tešanović",
+      "team": ""
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.774472,
+      "lon": 20.501528,
+      "name": "Park Medakovic",
+      "city": "Medak",
+      "leader": "Nada Jovanov",
+      "team": ""
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.846889,
+      "lon": 20.461389,
+      "name": "Jojkicev Dunavac",
+      "city": "Kotež",
+      "leader": "Nada Acimovic",
+      "team": ""
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.386194,
+      "lon": 20.252611,
+      "name": "Stop Shop",
+      "city": "Lazarevac",
+      "leader": "Rada Grozdranić",
+      "team": ""
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.750778,
+      "lon": 20.418722,
+      "name": "Park Stari Cerak",
+      "city": "Cerak",
+      "leader": "Danica Milović",
+      "team": ""
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.655167,
+      "lon": 20.109361,
+      "name": "Spomenik Borcima",
+      "city": "Brgulice – Obrenovac",
+      "leader": "Marija Stojanović",
+      "team": ""
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.75075,
+      "lon": 20.447,
+      "name": "Patrijarha Dimitrija- Vareška",
+      "city": "Miljakovac",
+      "leader": "Marija Kralj",
+      "team": ""
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.472111,
+      "lon": 20.577139,
+      "name": "KoZmaj Fest",
+      "city": "Sopot",
+      "leader": "Slobodan Vukašinović",
+      "team": ""
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.746472,
+      "lon": 20.427583,
+      "name": "VMC Cerak",
+      "city": "Cerak – Vinogradi",
+      "leader": "Đorđe Marković",
+      "team": ""
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.797222,
+      "lon": 20.475833,
+      "name": "Čuburski park",
+      "city": "Vračar",
+      "leader": "Bogdana Mitrić",
+      "team": ""
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.753139,
+      "lon": 20.452306,
+      "name": "Kanarevo Brdo",
+      "city": "Rakovica",
+      "leader": "Jelena Krnjeta",
+      "team": ""
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.768083,
+      "lon": 20.410444,
+      "name": "Julino Brdo",
+      "city": "Čukarica",
+      "leader": "Marijana Petkovic",
+      "team": ""
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.83225,
+      "lon": 20.414639,
+      "name": "Blok 9A",
+      "city": "Novi Beograd",
+      "leader": "Ognjen Grubač",
+      "team": ""
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.792639,
+      "lon": 20.4945,
+      "name": "Park Donji Krug",
+      "city": "Vračar",
+      "leader": "Miroslav Dimitrijevic",
+      "team": ""
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.828833,
+      "lon": 20.402222,
+      "name": "Pariske Komune",
+      "city": "Novi Beograd",
+      "leader": "Mirjana Vukasović",
+      "team": ""
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.830278,
+      "lon": 20.404556,
+      "name": "Marsala Tolbuhina",
+      "city": "Novi Beograd",
+      "leader": "Marija Ljujić Božović",
+      "team": ""
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.795806,
+      "lon": 20.486583,
+      "name": "Crveni Krst – OŠ „NH Siniša Nikolajevic“",
+      "city": "Konjarnik",
+      "leader": "Biljana Leković",
+      "team": ""
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.796861,
+      "lon": 20.377333,
+      "name": "Blok 45 – Kod Pevca",
+      "city": "Novi Beograd",
+      "leader": "Aleksandar Nojic",
+      "team": ""
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.796556,
+      "lon": 20.377806,
+      "name": "Blok 45 – Kafe Kafica",
+      "city": "Novi Beograd",
+      "leader": "Slobodan Smiljanic",
+      "team": "Plogging Serbia"
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.793167,
+      "lon": 20.375722,
+      "name": "Blok 45 – Decije Igraliste",
+      "city": "Novi Beograd",
+      "leader": "Tara Jovanović",
+      "team": ""
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.798175,
+      "lon": 20.413258,
+      "name": "Savski Nasip",
+      "city": "Novi Beograd",
+      "leader": "Predrag Rmuš",
+      "team": ""
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.808194,
+      "lon": 20.424806,
+      "name": "Blok 23 – O.Š. „Laza Kostić“",
+      "city": "Novi Beograd",
+      "leader": "Lana Lazarević",
+      "team": ""
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.659417,
+      "lon": 20.227333,
+      "name": "Trim Staza Zabran",
+      "city": "Obrenovac",
+      "leader": "Jelena Vuković Mićić",
+      "team": ""
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.816306,
+      "lon": 20.429,
+      "name": "Blok 21",
+      "city": "Novi Beograd",
+      "leader": "Stefan Knezevic",
+      "team": ""
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.764583,
+      "lon": 20.556833,
+      "name": "Kaludjerica – O.Š. „Aleksa Šantić“",
+      "city": "Kaluđerica",
+      "leader": "Milica Denić",
+      "team": ""
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.807306,
+      "lon": 20.469583,
+      "name": "Plato pozorišta Dadov",
+      "city": "Vračar",
+      "leader": "Milan Bačkulja",
+      "team": ""
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.765417,
+      "lon": 20.416861,
+      "name": "Repište – Banovo Brdo",
+      "city": "Beograd",
+      "leader": "Marija Milic",
+      "team": ""
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.815444,
+      "lon": 20.429417,
+      "name": "Blok 21 – X Gimnazija",
+      "city": "Novi Beograd",
+      "leader": "Ružica Janjić",
+      "team": ""
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.821806,
+      "lon": 20.407028,
+      "name": "Vrtić „Poletarac“",
+      "city": "Novi Beograd",
+      "leader": "Boris Skender",
+      "team": ""
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.790444,
+      "lon": 20.529861,
+      "name": "Mirijevsko šetalište – Stazice",
+      "city": "Mirijevo",
+      "leader": "Đorđe Lukić",
+      "team": ""
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.770694,
+      "lon": 20.478667,
+      "name": "Vojvode Stepe – Parking iza Vera",
+      "city": "Voždovac",
+      "leader": "Filip Tomasevic",
+      "team": ""
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.829139,
+      "lon": 20.401222,
+      "name": "Blok 4 – Park",
+      "city": "Novi Beograd",
+      "leader": "Mirjana Vukasović",
+      "team": ""
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.803583,
+      "lon": 20.383583,
+      "name": "Blok 63 – Park 4 koša",
+      "city": "Novi Beograd",
+      "leader": "Isidora Jovanovic",
+      "team": ""
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.816944,
+      "lon": 20.404833,
+      "name": "Blok 38",
+      "city": "Novi Beograd",
+      "leader": "Mihailo Hranjec",
+      "team": ""
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.792444,
+      "lon": 20.374389,
+      "name": "Blok 71 – Okretnica",
+      "city": "Novi Beograd",
+      "leader": "Marko Milic",
+      "team": ""
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.837028,
+      "lon": 20.383417,
+      "name": "Ugao Hercegovačka – Železnička",
+      "city": "Zemun",
+      "leader": "Marija Šipka Pavlović",
+      "team": ""
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.781889,
+      "lon": 20.507722,
+      "name": "Ustanička – Maxi",
+      "city": "Konjarnik",
+      "leader": "Katarina Pavlović",
+      "team": ""
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.840694,
+      "lon": 20.394194,
+      "name": "Kalvarija",
+      "city": "Zemun",
+      "leader": "Milica Rodaljević",
+      "team": ""
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.768611,
+      "lon": 20.410444,
+      "name": "Julino Brdo – Poručnika Spasića i Mašere",
+      "city": "Čukarica",
+      "leader": "Marijana Petković",
+      "team": ""
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.775278,
+      "lon": 20.504111,
+      "name": "Borivoja Stevanovića, paralelno sa Mokroluškom",
+      "city": "Voždovac",
+      "leader": "Miloš Stanković",
+      "team": ""
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.838861,
+      "lon": 20.495611,
+      "name": "Petlja Pančevački most -Krnjača / Beograd",
+      "city": "Krnjača",
+      "leader": "Milan Stojković",
+      "team": "Zbor Krnjača"
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.809722,
+      "lon": 20.386111,
+      "name": "Blok 61 – Sever",
+      "city": "Novi Beograd",
+      "leader": "Jelena Krimer",
+      "team": ""
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.819417,
+      "lon": 20.399944,
+      "name": "Blok 37 – O.Š. „Đuro Strugar“",
+      "city": "Novi Beograd",
+      "leader": "Novica Jovović",
+      "team": ""
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.819111,
+      "lon": 20.410972,
+      "name": "Blok 32",
+      "city": "Novi Beograd",
+      "leader": "Bojana Obradović",
+      "team": ""
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.793861,
+      "lon": 20.481194,
+      "name": "Park Koče Andjelkovica",
+      "city": "Vračar",
+      "leader": "Zeljko Bozic",
+      "team": ""
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.830778,
+      "lon": 20.458,
+      "name": "Dunavski Kej",
+      "city": "Beograd",
+      "leader": "Sofia Jakovljevic",
+      "team": ""
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.804167,
+      "lon": 20.50775,
+      "name": "Dečiji vrtić „Zvezdani gaj“",
+      "city": "Zvezdara",
+      "leader": "Jelena Kovačević",
+      "team": ""
+    },
+    {
+      "r": "Beograd",
+      "lat": 44.756444,
+      "lon": 20.4565,
+      "name": "Košarkaški teren Kosta Vasić",
+      "city": "Miljakovac",
+      "leader": "Isidora Kosić",
+      "team": ""
+    },
+    {
+      "r": "Vojvodina",
+      "lat": 45.564528,
+      "lon": 19.636472,
+      "name": "Vrbas",
+      "city": "Vrbas",
+      "leader": "Ekološki pokret Vrbasa",
+      "team": "Ekološki pokret Vrbasa"
+    },
+    {
+      "r": "Vojvodina",
+      "lat": 45.168917,
+      "lon": 19.983194,
+      "name": "Banstol",
+      "city": "Cortanovci",
+      "leader": "Milica Mojicevic",
+      "team": "Milica Mojicevic"
+    },
+    {
+      "r": "Vojvodina",
+      "lat": 45.232361,
+      "lon": 19.824667,
+      "name": "Šodroš",
+      "city": "Novi Sad",
+      "leader": "Volonterski Kolektiv Svako Dobro",
+      "team": "Svako Dobro"
+    },
+    {
+      "r": "Vojvodina",
+      "lat": 44.724351,
+      "lon": 20.980946,
+      "name": "Kovin",
+      "city": "Kovin",
+      "leader": "SSŠ „Vasa Pelagić“",
+      "team": "Gimnazija i SSŠ „Branko Radičević“ Kovin"
+    },
+    {
+      "r": "Vojvodina",
+      "lat": 45.778861,
+      "lon": 19.136083,
+      "name": "Sombor",
+      "city": "Sombor",
+      "leader": "Tomislav Palić",
+      "team": "Tomislav Palić"
+    },
+    {
+      "r": "Vojvodina",
+      "lat": 45.210361,
+      "lon": 19.769972,
+      "name": "Rakovac",
+      "city": "Rakovac",
+      "leader": "Anamarija Petrović",
+      "team": ""
+    },
+    {
+      "r": "Vojvodina",
+      "lat": 45.351389,
+      "lon": 20.383528,
+      "name": "Peskara",
+      "city": "Zrenjanin",
+      "leader": "Ljubica Stankovic",
+      "team": ""
+    },
+    {
+      "r": "Vojvodina",
+      "lat": 45.017222,
+      "lon": 20.967778,
+      "name": "Sumski Mir",
+      "city": "Devojacki Bunar",
+      "leader": "Vojislav Babic",
+      "team": ""
+    },
+    {
+      "r": "Vojvodina",
+      "lat": 45.225472,
+      "lon": 19.858611,
+      "name": "Sremska Kamenica",
+      "city": "Sremska Kamenica",
+      "leader": "Sandra Pjevac Vlasacevic",
+      "team": ""
+    },
+    {
+      "r": "Vojvodina",
+      "lat": 45.111333,
+      "lon": 21.309028,
+      "name": "Vrsac",
+      "city": "Vrsac",
+      "leader": "Predrag Prtljaga",
+      "team": ""
+    },
+    {
+      "r": "Vojvodina",
+      "lat": 45.260917,
+      "lon": 19.819972,
+      "name": "Detelinara – ABC samoposluga",
+      "city": "Novi Sad",
+      "leader": "Milica Ninić",
+      "team": ""
+    },
+    {
+      "r": "Vojvodina",
+      "lat": 44.730028,
+      "lon": 20.976861,
+      "name": "Kovin",
+      "city": "Kovin",
+      "leader": "Vladimir Krivošić",
+      "team": ""
+    },
+    {
+      "r": "Vojvodina",
+      "lat": 44.747778,
+      "lon": 20.732361,
+      "name": "Omoljica",
+      "city": "Omoljica",
+      "leader": "Milan Tomas",
+      "team": ""
+    },
+    {
+      "r": "Vojvodina",
+      "lat": 45.043556,
+      "lon": 20.429333,
+      "name": "Opovo",
+      "city": "Opovo",
+      "leader": "Jovan Nećakov",
+      "team": ""
+    },
+    {
+      "r": "Vojvodina",
+      "lat": 45.820694,
+      "lon": 20.606583,
+      "name": "Okolina bazena",
+      "city": "Banatsko veliko selo",
+      "leader": "Radomir Jevic",
+      "team": ""
+    },
+    {
+      "r": "Vojvodina",
+      "lat": 45.228972,
+      "lon": 21.123583,
+      "name": "Školsko dvorište OŠ „Dositej Obradović“",
+      "city": "Plandiste",
+      "leader": "Tanja Grijaković",
+      "team": ""
+    },
+    {
+      "r": "Vojvodina",
+      "lat": 45.247167,
+      "lon": 19.883806,
+      "name": "Park Zlatariceva",
+      "city": "Petrovaradin",
+      "leader": "Daniela Čikić",
+      "team": ""
+    },
+    {
+      "r": "Vojvodina",
+      "lat": 45.24375,
+      "lon": 19.845139,
+      "name": "Igraliste",
+      "city": "Novi Sad",
+      "leader": "Anna Volkova",
+      "team": ""
+    },
+    {
+      "r": "Vojvodina",
+      "lat": 46.099167,
+      "lon": 19.65475,
+      "name": "Subotica",
+      "city": "Subotica",
+      "leader": "Marina Smoženkova",
+      "team": ""
+    },
+    {
+      "r": "Vojvodina",
+      "lat": 45.267083,
+      "lon": 19.840278,
+      "name": "Igralište Karađorđeva-Koste Šokice",
+      "city": "Novi Sad",
+      "leader": "Dejan Jovanović",
+      "team": ""
+    },
+    {
+      "r": "Vojvodina",
+      "lat": 44.934778,
+      "lon": 20.225972,
+      "name": "Nova Pazova",
+      "city": "Nova Pazova",
+      "leader": "Nikola Koldžić",
+      "team": ""
+    },
+    {
+      "r": "Vojvodina",
+      "lat": 44.883972,
+      "lon": 20.64625,
+      "name": "Kotež 2 – sportski tereni",
+      "city": "Pančevo",
+      "leader": "Valentina Stanišić",
+      "team": ""
+    },
+    {
+      "r": "Vojvodina",
+      "lat": 45.756194,
+      "lon": 19.114639,
+      "name": "Rokovačka šuma",
+      "city": "Sombor",
+      "leader": "Kristian Arbutina",
+      "team": ""
+    },
+    {
+      "r": "Vojvodina",
+      "lat": 44.880278,
+      "lon": 20.649361,
+      "name": "Kotež 1",
+      "city": "Pančevo",
+      "leader": "Vladimir Božičković",
+      "team": ""
+    },
+    {
+      "r": "Vojvodina",
+      "lat": 45.180611,
+      "lon": 19.830444,
+      "name": "Orlovo Bojiste",
+      "city": "Fruska Gora",
+      "leader": "Senka Bajić",
+      "team": ""
+    },
+    {
+      "r": "Vojvodina",
+      "lat": 46.087972,
+      "lon": 19.668694,
+      "name": "Blaška Rajića",
+      "city": "Subotica",
+      "leader": "Attila Makai",
+      "team": ""
+    },
+    {
+      "r": "Vojvodina",
+      "lat": 45.440389,
+      "lon": 19.811889,
+      "name": "Sirig",
+      "city": "Temerin",
+      "leader": "Srdjan Breznjak",
+      "team": ""
+    },
+    {
+      "r": "Vojvodina",
+      "lat": 45.754861,
+      "lon": 19.116611,
+      "name": "Park Obilaznica",
+      "city": "Sombor",
+      "leader": "Tatjana Armus",
+      "team": ""
+    },
+    {
+      "r": "Vojvodina",
+      "lat": 45.016222,
+      "lon": 20.339833,
+      "name": "Belegiš – priobalje",
+      "city": "Belegiš",
+      "leader": "Ranković Mihailo",
+      "team": ""
+    },
+    {
+      "r": "Vojvodina",
+      "lat": 45.262028,
+      "lon": 19.864583,
+      "name": "Šodroš",
+      "city": "Novi Sad",
+      "leader": "Milutin Kokotović",
+      "team": ""
+    },
+    {
+      "r": "Vojvodina",
+      "lat": 45.126583,
+      "lon": 20.743861,
+      "name": "Padina",
+      "city": "Padina",
+      "leader": "Božena Pavela Dišpiter",
+      "team": ""
+    },
+    {
+      "r": "Vojvodina",
+      "lat": 45.245306,
+      "lon": 19.836972,
+      "name": "Lasla Gala – Vojvođanska",
+      "city": "Novi Sad",
+      "leader": "Slava Solonov",
+      "team": ""
+    },
+    {
+      "r": "Vojvodina",
+      "lat": 45.211389,
+      "lon": 20.032611,
+      "name": "SRP „Koviljsko-petrovaradinski rit“",
+      "city": "Kovilj",
+      "leader": "Helena Jokić",
+      "team": ""
+    },
+    {
+      "r": "Vojvodina",
+      "lat": 45.252806,
+      "lon": 19.862111,
+      "name": "Petrovaradinska Tvrđava",
+      "city": "Petrovaradin",
+      "leader": "Leon Šurbanović",
+      "team": ""
+    },
+    {
+      "r": "Vojvodina",
+      "lat": 45.387806,
+      "lon": 20.408833,
+      "name": "Principova – kod mosta",
+      "city": "Zrenjanin",
+      "leader": "Milan Miljuš",
+      "team": ""
+    },
+    {
+      "r": "Vojvodina",
+      "lat": 45.446972,
+      "lon": 19.617639,
+      "name": "Ugao Žarka Zrenjanina i Prvomajske",
+      "city": "Ravno Selo",
+      "leader": "Саша Мирковић",
+      "team": ""
+    },
+    {
+      "r": "Vojvodina",
+      "lat": 45.123528,
+      "lon": 20.726444,
+      "name": "Horna Dolina",
+      "city": "Padina",
+      "leader": "Lidija Funćik",
+      "team": ""
+    },
+    {
+      "r": "Vojvodina",
+      "lat": 45.069056,
+      "lon": 20.59975,
+      "name": "Debeljača – centar",
+      "city": "Debeljača",
+      "leader": "Marija Mraznić",
+      "team": "„Malo selo velikog srca“ i „U službi prirode Debeljača“"
+    },
+    {
+      "r": "Vojvodina",
+      "lat": 45.349972,
+      "lon": 19.720806,
+      "name": "Kisački Park",
+      "city": "Kisač",
+      "leader": "Slavko Joković",
+      "team": ""
+    },
+    {
+      "r": "Vojvodina",
+      "lat": 45.510417,
+      "lon": 19.921417,
+      "name": "Nadalj – raskrsnica",
+      "city": "Nadalj",
+      "leader": "Tošica Savkov",
+      "team": ""
+    },
+    {
+      "r": "Vojvodina",
+      "lat": 44.988694,
+      "lon": 20.797028,
+      "name": "Igralište „Zelena Zona“",
+      "city": "Banatsko Novo Selo",
+      "leader": "Исидора Плејић",
+      "team": ""
+    },
+    {
+      "r": "Vojvodina",
+      "lat": 45.232361,
+      "lon": 19.824667,
+      "name": "Šetalište Šodroš Staza",
+      "city": "Novi Sad",
+      "leader": "Jovana Damjanov",
+      "team": ""
+    },
+    {
+      "r": "Vojvodina",
+      "lat": 45.838139,
+      "lon": 20.488722,
+      "name": "Železnička stanica – Park oko lokomotive",
+      "city": "Kikinda",
+      "leader": "Milan Petrov",
+      "team": ""
+    },
+    {
+      "r": "Vojvodina",
+      "lat": 45.822083,
+      "lon": 20.440083,
+      "name": "Teren u Ivana Jakšića",
+      "city": "Kikinda",
+      "leader": "Marijana Nadj",
+      "team": ""
+    },
+    {
+      "r": "Vojvodina",
+      "lat": 45.324389,
+      "lon": 20.066389,
+      "name": "Djurdjevo – centar",
+      "city": "Djurdjevo",
+      "leader": "Anita Bečkerečki",
+      "team": ""
+    },
+    {
+      "r": "Vojvodina",
+      "lat": 45.255944,
+      "lon": 19.825333,
+      "name": "Fudbalski teren „Marko Majstorović“",
+      "city": "Novi Sad",
+      "leader": "Filip Savic",
+      "team": ""
+    },
+    {
+      "r": "Centralna Srbija",
+      "lat": 43.975167,
+      "lon": 21.260528,
+      "name": "Jagodina",
+      "city": "Jagodina",
+      "leader": "Jelena Ilić",
+      "team": "Jelena Ilić"
+    },
+    {
+      "r": "Centralna Srbija",
+      "lat": 43.792611,
+      "lon": 21.185194,
+      "name": "Sekurič",
+      "city": "Rekovac",
+      "leader": "Oliver Aleksić",
+      "team": ""
+    },
+    {
+      "r": "Centralna Srbija",
+      "lat": 43.458167,
+      "lon": 21.055639,
+      "name": "Aleksandrovac – Gradski park",
+      "city": "Aleksandrovac",
+      "leader": "Katarina Zarkovic",
+      "team": ""
+    },
+    {
+      "r": "Centralna Srbija",
+      "lat": 43.583583,
+      "lon": 21.347417,
+      "name": "Rasina",
+      "city": "Krusevac",
+      "leader": "Nenad Dimitrijević",
+      "team": ""
+    },
+    {
+      "r": "Centralna Srbija",
+      "lat": 43.995389,
+      "lon": 20.926583,
+      "name": "Метино Брдо – Стаза Јосифа Панчића",
+      "city": "Kragujevac",
+      "leader": "Дејан Милошевић",
+      "team": ""
+    },
+    {
+      "r": "Centralna Srbija",
+      "lat": 43.52775,
+      "lon": 21.349028,
+      "name": "Modrica",
+      "city": "Krusevac",
+      "leader": "Tatjana Mihailović Mladenović",
+      "team": ""
+    },
+    {
+      "r": "Centralna Srbija",
+      "lat": 43.497083,
+      "lon": 21.376389,
+      "name": "Krusevac",
+      "city": "Krusevac",
+      "leader": "Rade Vasković",
+      "team": ""
+    },
+    {
+      "r": "Centralna Srbija",
+      "lat": 43.579972,
+      "lon": 21.319444,
+      "name": "Ugao Vojvode Putnika",
+      "city": "Krusevac",
+      "leader": "Jovanka Andric",
+      "team": "Udruženje Sačuvajmo Bagdalu"
+    },
+    {
+      "r": "Centralna Srbija",
+      "lat": 43.585806,
+      "lon": 21.320806,
+      "name": "Lazareva Cesma",
+      "city": "Krusevac",
+      "leader": "Lidija Gvozdenović",
+      "team": ""
+    },
+    {
+      "r": "Centralna Srbija",
+      "lat": 44.356194,
+      "lon": 21.098083,
+      "name": "Velika Morava",
+      "city": "Velika Plana",
+      "leader": "Marina Marković",
+      "team": ""
+    },
+    {
+      "r": "Centralna Srbija",
+      "lat": 43.548083,
+      "lon": 21.101639,
+      "name": "Veluće – Vodenica Perčević",
+      "city": "Trstenik",
+      "leader": "Darko Perčević",
+      "team": ""
+    },
+    {
+      "r": "Centralna Srbija",
+      "lat": 43.578056,
+      "lon": 21.154361,
+      "name": "Park kod Crkve Svetih Apostola",
+      "city": "Stopanja",
+      "leader": "Boža Nedić",
+      "team": ""
+    },
+    {
+      "r": "Centralna Srbija",
+      "lat": 44.418194,
+      "lon": 20.019556,
+      "name": "Tvrdojevac",
+      "city": "Tvrdojevac",
+      "leader": "Milojko Rastisavljevic",
+      "team": "Zbor Ub"
+    },
+    {
+      "r": "Centralna Srbija",
+      "lat": 43.934583,
+      "lon": 21.370833,
+      "name": "Gradski Trg",
+      "city": "Ćuprija",
+      "leader": "Filip Trailović",
+      "team": ""
+    },
+    {
+      "r": "Centralna Srbija",
+      "lat": 44.358167,
+      "lon": 21.096694,
+      "name": "Obala Velike Morave",
+      "city": "Velika Plana",
+      "leader": "Marina Marković",
+      "team": ""
+    },
+    {
+      "r": "Centralna Srbija",
+      "lat": 44.306528,
+      "lon": 20.568556,
+      "name": "Zaguan i Sportski centar “Šumadija“",
+      "city": "Arandjelovac",
+      "leader": "Mateja Vićentijević",
+      "team": ""
+    },
+    {
+      "r": "Zapadna Srbija",
+      "lat": 43.667667,
+      "lon": 20.881028,
+      "name": "Razlivak Novo Selo",
+      "city": "Vrnjacka Banja",
+      "leader": "Jovan Smolović",
+      "team": ""
+    },
+    {
+      "r": "Zapadna Srbija",
+      "lat": 43.723694,
+      "lon": 20.681389,
+      "name": "Park Svetog save",
+      "city": "Kraljevo",
+      "leader": "Olivera Vranić",
+      "team": ""
+    },
+    {
+      "r": "Zapadna Srbija",
+      "lat": 44.369361,
+      "lon": 19.109139,
+      "name": "Royal Plaza",
+      "city": "Mali Zvornik",
+      "leader": "Миодраг Мацура",
+      "team": ""
+    },
+    {
+      "r": "Zapadna Srbija",
+      "lat": 44.471361,
+      "lon": 19.490167,
+      "name": "Zavlačko brdo",
+      "city": "Zavlaka",
+      "leader": "Katarina Marjanac",
+      "team": ""
+    },
+    {
+      "r": "Zapadna Srbija",
+      "lat": 44.328694,
+      "lon": 19.296222,
+      "name": "Mačkov Kamen",
+      "city": "Krupanj",
+      "leader": "Nikola Stakić",
+      "team": ""
+    },
+    {
+      "r": "Zapadna Srbija",
+      "lat": 44.053444,
+      "lon": 19.969056,
+      "name": "Skakavci",
+      "city": "Kosjerić",
+      "leader": "Zeljko Jakovljević",
+      "team": ""
+    },
+    {
+      "r": "Zapadna Srbija",
+      "lat": 43.865889,
+      "lon": 19.405556,
+      "name": "Zaovinsko Jezero",
+      "city": "Bajina Basta – Tara",
+      "leader": "Vladimir Šašo",
+      "team": ""
+    },
+    {
+      "r": "Zapadna Srbija",
+      "lat": 44.394333,
+      "lon": 19.48075,
+      "name": "Bela Crkva",
+      "city": "Krupanj",
+      "leader": "Dušan Žugić",
+      "team": ""
+    },
+    {
+      "r": "Zapadna Srbija",
+      "lat": 44.406861,
+      "lon": 19.34775,
+      "name": "Cerova – okolina gradske deponije",
+      "city": "Krupanj",
+      "leader": "Katarina Trifunović",
+      "team": ""
+    },
+    {
+      "r": "Zapadna Srbija",
+      "lat": 43.892417,
+      "lon": 20.342056,
+      "name": "Mila Ivkovića",
+      "city": "Čačak",
+      "leader": "Nevena Aleksić",
+      "team": ""
+    },
+    {
+      "r": "Istočna Srbija",
+      "lat": 43.835444,
+      "lon": 22.116194,
+      "name": "Selo Planinica",
+      "city": "Zajecar",
+      "leader": "Ivana Zivkovic",
+      "team": ""
+    },
+    {
+      "r": "Južna Srbija",
+      "lat": 43.327,
+      "lon": 21.916306,
+      "name": "Pešački most Ilije Birčanina – Pantelejska strana",
+      "city": "Niš",
+      "leader": "Miljana Milojković",
+      "team": ""
+    }
+  ]
+}
