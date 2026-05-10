@@ -1,7 +1,7 @@
 {
-  "modified_gmt": "2026-05-09T19:58:45",
+  "modified_gmt": "2026-05-10T08:55:39",
   "source": "https://zavrnirukave.rs/wp-json/wp/v2/pages?slug=prijavljene-lokacije",
-  "count": 296,
+  "count": 295,
   "locations": [
     {
       "r": "Beograd",
@@ -218,15 +218,6 @@
       "city": "Novi Beograd",
       "leader": "Tanja Spasenovski",
       "team": ""
-    },
-    {
-      "r": "Beograd",
-      "lat": 44.895167,
-      "lon": 20.293444,
-      "name": "Park između Bojčinske i Bihaćke ulice",
-      "city": "Batajnica",
-      "leader": "Bojana Dobrić",
-      "team": "Zbor građana Batajnice"
     },
     {
       "r": "Beograd",
